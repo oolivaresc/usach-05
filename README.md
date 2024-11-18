@@ -1,0 +1,2 @@
+# Ejecución
+node functions.js
